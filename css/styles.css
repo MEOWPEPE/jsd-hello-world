@@ -693,10 +693,10 @@ body {
 	background-image: url("../images/participant-photo.png");
 }
 #participant-36 .participant-name::before {
-	/* content: "Your Name Here"; */
+  content: "36_Sirada(Milk)";
 }
 #participant-36 .participant-quote::before {
-	/* content: "Your inspirational quote here." */
+  content: "Code first, panic later."
 }
 
 /* Next participant */
