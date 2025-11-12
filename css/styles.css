@@ -382,11 +382,11 @@ body {
 
 /* Next participant */
 #participant-21 {
-  background-image: url("/images/21_Narathorn/bg-21.png");
+  background-image: url("/images/21-bg.png");
   background-size: cover;
 }
 #participant-21 .profile-photo {
-  background-image: url("/images/21_Narathorn/profile-21.png");
+  background-image: url("/images/21-profile.png");
 }
 #participant-21 .participant-name::before {
   content: "21_Narathorn(Boss)";
